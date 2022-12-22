@@ -4,7 +4,7 @@ public class NotificationFactory {
 
 	public Notification creerNotification(String canal)
 	{
-		if (canal == null || channel.isEmpty())
+		if (canal == null || canal.isEmpty())
 			return null;
 		switch (canal) {
 		case "SMS":
