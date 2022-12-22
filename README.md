@@ -2,5 +2,5 @@ Dans le diagramme de classes ci-dessus, nous avons une interface appelée Notifi
 
 ![Screenshot](Diagramme.PNG)
 
-![Screenshot](Resultat.PNG)
-### Résultat : Sending an SMS notification
+![Screenshot](resultat.PNG)
+## Résultat : Envoie d'une notification par SMS
