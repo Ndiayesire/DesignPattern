@@ -1,4 +1,4 @@
-public class PushNotification implements Notification {
+public class WhatsappNotification implements Notification {
 
 	@Override
 	public void notifUtilisateur()
