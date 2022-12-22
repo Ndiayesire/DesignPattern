@@ -2,5 +2,7 @@ Dans le diagramme de classes ci-dessus, nous avons une interface appelée Notifi
 
 ![Screenshot](Diagramme.PNG)
 
+Utilisons maintenant la classe Notificationfactory pour créer et obtenir un objet de classe concrète en passant quelques informations. 
+
 ![Screenshot](resultat.PNG)
 ## Résultat : Envoie d'une notification par SMS
